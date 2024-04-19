@@ -19,5 +19,5 @@ Our experimental results show that the proposed Deep Learning models can achieve
 This research has implications in the development of effective and efficient technological solutions to mitigate the negative impact of hoax news dissemination and promote accurate and public-interest information.
 
 ## References
-Link to the paper: [Automatic Hoax News Detection](paper/Supervision_Fake News Detection _ Memberdayakan Partisipasi Publik Melalui  Informasi yang Akurat dengan Deteksi Berita Palsu Menggunakan Model Neural Network .pdf)
+Link to the paper: [Automatic Hoax News Detection](paper/paper.pdf)
 
